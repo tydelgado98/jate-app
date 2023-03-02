@@ -4,6 +4,11 @@
   ## Description
   
   - Wanted to make a text editor that anyone can install locally to their pc and make it easy to make code on the go!
+
+  # Screenshot
+
+    [![ Screenshot](assets/jate.png)]
+
   
   ## Installation
   
@@ -25,6 +30,9 @@
 
   # Video
   <!-- [![video recording](videos/teamgen.png)](videos/Team%20Generator.webm) -->
+
+
+
   
   ## License
   
