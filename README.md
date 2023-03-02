@@ -7,7 +7,7 @@
 
   # Screenshot
 
-    ![Jate app](assets/jate.png)
+    ![Jate-app](images/jate.png)
 
   
   ## Installation
