@@ -5,10 +5,12 @@
   
   - Wanted to make a text editor that anyone can install locally to their pc and make it easy to make code on the go!
 
-  # Screenshot
+## Preview   
+![homepage-screenshot](images/jate.png)
 
-    ![Jate-app](images/jate.png)
 
+## LINK  
+https://unnamedmistress.github.io/thepawpath/
   
   ## Installation
   
